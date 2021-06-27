@@ -1,0 +1,2 @@
+/usr/bin/ld: lib/libbounds.a(harness.o): relocation R_X86_64_32 against `.rodata' can not be used when making a PIE object; recompile with -fPIE
+collect2: error: ld returned 1 exit status
